@@ -1,6 +1,6 @@
 # Vue 3 + Vite + REST API
 
-This repo is demonstration of the article from (REST API Without Server)[https://www.freecodecamp.org/news/how-to-create-a-rest-api-without-a-server/].
+This repo is demonstration of the article from [REST API Without Server](https://www.freecodecamp.org/news/how-to-create-a-rest-api-without-a-server/).
 
 ## How to run
 
