@@ -11,7 +11,7 @@ import HomePage from './components/HomePage.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HomePage msg="Vite + Vue 222" />
+  <HomePage msg="Vite + Vue" />
 </template>
 
 <style scoped>
